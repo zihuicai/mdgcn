@@ -1,6 +1,12 @@
-The codes and datasets of the paper "Multimodal dynamic graph convolutional network for crowdfunding success prediction".
+The codes and datasets of the paper
+["***Multimodal dynamic graph convolutional network for crowdfunding success prediction***"](https://www.sciencedirect.com/science/article/abs/pii/S1568494624000875)
 
-We can not release the raw data of these two datasets becasue we are not the owner of them. If you want to get the raw text, image, and video, please download them according to the urls in the files "kickstarter.csv" and "indiegogo.csv".
+
+
+We can not release the raw data of these two datasets becasue we are not the owner of them. 
+If you want to get the raw text, image, and video, please download them according to the urls in the files "kickstarter.csv" and "indiegogo.csv".
+
+
 
 If you use these two dataset for your research, please include a citation to the following paper: 
 ```
