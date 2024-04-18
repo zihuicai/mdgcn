@@ -4,6 +4,7 @@ The codes and datasets of the paper
 
 
 We can not release the raw data of these two datasets becasue we are not the owner of them. 
+
 If you want to get the raw text, image, and video, please download them according to the urls in the files "kickstarter.csv" and "indiegogo.csv".
 
 
