@@ -179,6 +179,7 @@ class TrainTool:
 
 
 def main():
+    set_seed(0)
     parser = argparse.ArgumentParser()
     parser.add_argument('--dataset', type=str, default='kickstarter')
     args = parser.parse_args()
